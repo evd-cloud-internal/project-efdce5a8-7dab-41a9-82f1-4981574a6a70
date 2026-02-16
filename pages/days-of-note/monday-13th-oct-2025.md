@@ -1,5 +1,5 @@
 ---
-name: New Page
+name: Monday, 13th Oct 2025
 assetId: 88c1ab97-7126-456c-9afe-88e007ff41d8
 type: page
 ---
